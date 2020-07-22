@@ -1,6 +1,3 @@
-/*
-Link : https://raw.githubusercontent.com/ramadhinolfski/cpackets/master/conio.h
-*/
 
 /**
 * conio4linux (Conio.h for linux)
