@@ -1,3 +1,5 @@
+//Includes conio.h
+//If it does not work delete the #include<conio.h> from this header doc the use
 // C++ includes used for precompiling -*- C++ -*-
 
 // Copyright (C) 2003-2020 Free Software Foundation, Inc.
